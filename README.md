@@ -1,6 +1,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
+<img width="2240" alt="gobraingo" src="https://github.com/okancingoz/gobraingo/assets/88890682/722d6b81-ee82-4b9c-8c53-4f5af1cf6858">
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
